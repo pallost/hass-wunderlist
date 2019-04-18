@@ -1,0 +1,21 @@
+{
+  "todo-list-component": {
+    "updated_at": "2019-04-18",
+    "version": "1.0.0",
+    "local_location": "/custom_components/todolist/__init__.py",
+    "remote_location": "https://raw.githubusercontent.com/pallost/hass-wunderlist/master/custom_components/todolist/__init__.py",
+    "visit_repo": "https://github.com/pallost/hass-wunderlist",
+    "changelog": "https://github.com/pallost/hass-wunderlist"
+  },
+  "wunderlist-platform": {
+    "updated_at": "2019-04-18",
+    "version": "1.0.0",
+    "local_location": "/custom_components/wunderlist/__init__.py",
+    "remote_location": "https://raw.githubusercontent.com/pallost/hass-wunderlist/master/custom_components/wunderlist/__init__.py",
+    "visit_repo": "https://github.com/pallost/hass-wunderlist",
+    "changelog": "https://github.com/pallost/hass-wunderlist",
+    "resources": [
+      "https://raw.githubusercontent.com/pallost/hass-wunderlist/master/custom_components/wunderlist/todolist.py"
+    ]
+  }
+}

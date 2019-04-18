@@ -1,0 +1,10 @@
+{
+  "todo-list-card": {
+    "updated_at": "2019-04-18",
+    "version": "1.0.0",
+    "local_location": "/www/github/pallost/todo-list-card.js",
+    "remote_location": "https://raw.githubusercontent.com/pallost/hass-wunderlist/master/www/todo-list-card.js",
+    "visit_repo": "https://github.com/pallost/hass-wunderlist",
+    "changelog": "https://github.com/pallost/hass-wunderlist"
+  }
+}
